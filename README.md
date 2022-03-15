@@ -1,7 +1,7 @@
 # Wifi_Jammer
 
-<h2>Hackber Lite</h2>
-📥 <a href="https://github.com/H0rn3t-Sp1d3rs/Wifi_Jammer/blob/main/Wifi%20J4Mm3R.apk?raw=true">Download</a> the Andro Hackber.
+<h2>Wifi Jammer</h2>
+📥 <a href="https://github.com/H0rn3t-Sp1d3rs/Wifi_Jammer/blob/main/Wifi%20J4Mm3R.apk?raw=true">Download</a> the Wifi Jammer apk.
 <br>
 <br>
 <br>
